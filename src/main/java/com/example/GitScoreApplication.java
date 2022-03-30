@@ -11,6 +11,7 @@ public class GitScoreApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitScoreApplication.class, args);
+
     }
 
 }
